@@ -1,0 +1,4 @@
+https://cdn.cloudways.com -> access-control-allow-origin: *
+https://email.cloudways.com -> access-control-allow-origin: *
+https://status.cloudways.com -> access-control-allow-origin: *
+https://tracking.cloudways.com -> access-control-allow-origin: *
